@@ -1,0 +1,13 @@
+{
+    "title" : "SokanAcademy PHP8 Final Project",
+    "name": "Hamid Reza",
+    "family": "Madani",
+    "pages" : {
+        "about" : "About",
+        "experience" : "Experience",
+        "education" : "Education",
+        "skills" : "Skills",
+        "interests" : "Interests",
+        "awards" : "Awards"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "skills" : [
+        {
+            "title" : "Programming Languages & Tools",
+            "items" : [
+                "html5",
+                "css3-alt",
+                "js-square",
+                "angular",
+                "react",
+                "node-js",
+                "sass",
+                "less",
+                "wordpress",
+                "gulp",
+                "grunt",
+                "npm"
+            ]
+        },
+        {
+            "title" : "Workflow",
+            "items" : [
+                "Mobile-First, Responsive Design",
+                "Cross Browser Testing & Debugging",
+                "Cross Functional Teams",
+                "Agile Development & Scrum"
+            ]
+        }
+    ]
+}

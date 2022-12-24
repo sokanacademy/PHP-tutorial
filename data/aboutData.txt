@@ -1,0 +1,12 @@
+{
+    "address" : "3542 Berry Street · Cheyenne Wells, CO 80810 ·",
+    "tell" : "(317) 585-8468",
+    "email" : "name@email.com",
+    "aboutText" : "I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+    "socialMedia" : {
+        "linkedin-in" : "Linkedin.com",
+        "github" : "github.com",
+        "twitter" : "twitter.com",
+        "facebook-f" : "facebook.com"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "education" : [
+        {
+            "university" : "University of Colorado Boulder",
+            "grade" : "Bachelor of Science",
+            "major" : "Computer Science - Web Development Track",
+            "GPA" : "3.23",
+            "fromDate" : "August 2006",
+            "toDate" : "May 2010"
+        },
+        {
+            "university" : "James Buchanan High School",
+            "grade" : "High School",
+            "major" : "Technology Magnet Program",
+            "GPA" : "3.56",
+            "fromDate" : "August 2002",
+            "toDate" : "May 2006"
+        }
+    ]
+}
